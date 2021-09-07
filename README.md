@@ -1,2 +1,2 @@
-# 1A
-Web creada con el fin de hablar acerca de las novedades I.A
+# OneA
+Pagina web creada con el fin de mostrar productos tecnológicos e innovadores
